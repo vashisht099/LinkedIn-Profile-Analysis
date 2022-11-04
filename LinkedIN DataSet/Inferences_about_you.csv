@@ -1,0 +1,18 @@
+Category,Type of inference,Description,Inference
+Career inferences,Unemployment Status,Based on the current position on your profile and other factors.,Yes
+Career inferences,People leader,People leader at your company. Based on your experience on your profile and other factors.,No
+Career inferences,Sales professional,Based on factors such as your experience and profile headline.,No
+Career inferences,Recruiter,Based on factors such as your experience and profile headline.,No
+Career inferences,Career stability,"Employee with consistency in industry, company, job title, and other factors.",No
+Career inferences,Likelihood to be a marketer,Based on your profile and other factors.,0.0
+Career inferences,Job seeker,Based on your activity on LinkedIn and other factors.,No
+Career inferences,Early stage of career,Early stage of career but not a student. Based on factors such as your industry and experience on your profile.,No
+Career inferences,Small or medium sized business owner,"Based on your current company on your profile, your job title, and other factors.",No
+Career inferences,Student,Based on your education on your profile and other factors.,No
+Career inferences,Growth stage of career,Based on factors such as your industry and experience on your profile.,No
+Career inferences,Senior leader,Executive leader at your company. Based on your experience on your profile and other factors.,No
+Career inferences,Human resources professional,Based on factors such as your industry and profile headline.,No
+Inferred interests,Affinity for Electric Vehicles,"Members who follow Pages in the Electric Vehicle space, hashtags related to electric vehicles, or have engaged with content on electric vehicles in the last 6 months. This inference is used by advertisers (most popular with Automotive companies) on LinkedIn to target audiences more likely to be interested in Electric Vehicles.",true
+Inferred interests,Interested in higher education,Based on whether you follow companies in the higher education industry.,true
+Job search inferences,Interested in a new job,Based on whether you searched for a job or clicked on a posting in the past 30 days.,true
+LinkedIn Sales Solutions (LSS) inferences,Interested in Sales Navigator product in North America,"Likely to fill out a Contact me sheet to purchase Sales Navigator and living in North America. Based on factors such as your location, experience, and industry on your profile.",true
